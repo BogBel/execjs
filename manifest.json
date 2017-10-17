@@ -3,7 +3,7 @@
 
   "name": "ExecJS",
   "description": "Nothing special",
-  "version": "1.0",
+  "version": "0.01",
   "options_page": "config_page.html",
 
   "browser_action": {
